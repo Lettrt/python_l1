@@ -1,3 +1,4 @@
+
 a = 5
 b = 10
 
@@ -28,3 +29,4 @@ hours = total_minutes // 60
 minutes = total_minutes % 60
 
 print(f"{total_minutes} минут это {hours} часов {minutes} минут.")
+
