@@ -24,3 +24,11 @@ hour = total_mins // 60
 minute = total_mins % 60
 
 print(f"{hour} hours " f"{minute} minutes")
+
+#Доп задача
+
+books = 120 #cost 450
+laptops = 40 #cost 40_000
+pens = 1000 #cost 40
+
+print(f" Books revenue = {books *450} \n Laptops revenue = {laptops * 40_000} \n Pens revenue = {pens * 40} \n Total revenue = {books + laptops + pens} \n Average cost {books + laptops + pens / 3}")
